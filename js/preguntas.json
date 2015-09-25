@@ -1,0 +1,144 @@
+[
+	{},{},
+	{
+		"pregunta" 	: "¿Capital de Polonia?", 
+		"opciones"	: ["Estocolmo", "Varsovia", "Paris", "Londres"], 
+		"correcta"	: 2	
+		
+	},
+	{
+		"pregunta" 	: "¿A qué equivale un metro?", 
+		"opciones"	: ["10 m", "1000 cm ", " 1 Hm", "100 cm"], 
+		"correcta"	: 4	
+	},
+	{
+		"pregunta" 	: "¿Dónde se encuentra el Museo del Prado?", 
+		"opciones"	: ["Sevilla", "Valencia", "Madrid", "Barcelona"], 
+		"correcta"	: 3	
+	},
+	{
+		"pregunta" 	: "¿Qué país no posee armas nucleares?", 
+		"opciones"	: ["India", "Francia", "España", "USA"], 
+		"correcta"	: 3	
+	},
+	{
+		"pregunta" 	: "¿Cuántos Planetas tiene el sistema Solar?", 
+		"opciones"	: [3, 10, 8, 9], 
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "¿En qué País nacio Simón Bolivar?", 
+		"opciones"	: ["Perú", "Venezuela", "Colombia", "Nicaragua"], 
+		"correcta"	: 2	
+	},
+
+
+
+	{
+		"pregunta" 	: "¿Qué le pasa en realidad al gato de Schrödinger? ", 
+		"opciones"	: ["Esta Vivo", "Esta Muerto", "Esta Vivo y Muerto", "Se escapa"], 
+		"correcta"	: 3	
+	},
+	{
+		"pregunta" 	: "¿Qué es el 'Texas Hold'em'? ", 
+		"opciones"	: ["Una conocida variante del póquer", "Un famoso campo petrolífero ", "Un legendario wéstern ", "Capital de las Vegas"], 
+		"correcta"	: 1	
+	},
+	{
+
+
+		"pregunta" 	: "¿ Última letra del alfabeto griego?", 
+		"opciones"	: ["Omega", "Alpha", "Zeta", "Theta"], 
+		"correcta"	: 1	
+	},
+	{
+		"pregunta" 	: "¿Es la bebida alcohólica más importante de Japón, destilada del arroz?", 
+		"opciones"	: ["Umeshu", "Sake", "Te", "Awamori"], 
+		"correcta"	: 2	
+	},
+	{
+
+
+
+		"pregunta" 	: "¿Como se llamo el caballo de Don Quijote?", 
+		"opciones"	: ["Garrafas", "Blanco", "Rocinante", "Don Quijote no tuvo caballo"], 
+		"correcta"	: 3	
+	},
+	{
+
+		"pregunta" 	: "¿Quien aparece en el billete de 1000 pesos colombianos?", 
+		"opciones"	: ["Francisco de Paula Santander", "Jorge Eliécer Gaitán", "José Asunción Silva", "Jorge Isacc"], 
+		"correcta"	: 2	
+	},
+	
+	{
+		"pregunta" 	: "¿Quien no es integrante de los The Beatles?", 
+		"opciones"	: ["Paul McCartney", "John Lennon", "Ringo Starr", "Izzy Stradlin"], 
+		"correcta"	: 4	
+	},
+	{
+		"pregunta" 	: "¿En que mundial Maradona marco el gol con 'La mano de DIOS'?", 
+		"opciones"	: [" Mundial de México de 1986", "Mundial de USA de 1994", "Mundial de Italia de 1990", "Mundial de España de 1982"], 
+		"correcta"	: 1	
+	},
+	{
+		"pregunta" 	: "¿De que nacionalidad es Roger Federer?", 
+		"opciones"	: ["Bosnio", "Sueco", "España", "Suiza"], 
+		"correcta"	: 4	
+	},
+	{
+		"pregunta" 	: "¿Cúal de ellos no fundo la empresa Apple?", 
+		"opciones"	: ["Steve Jobs", "Stephen Wozniak", "Tim Cook", "Ronald Wayne"], 
+		"correcta"	: 3	
+	},
+
+
+
+	{
+		"pregunta" 	: "¿En que pais se encuntra la torre de Pisa?", 
+		"opciones"	: ["Italia", "Francia", "Suiza", "Alemania"], 
+		"correcta"	: 1	
+	},
+	{
+		"pregunta" 	: "¿Que cantidad de huesos tiene en total el ser humano?", 
+		"opciones"	: [205, 202, 206, 204], 
+		"correcta"	: 3	
+	},
+	{
+		"pregunta" 	: "¿A cual ciudad se le conoce como  la ciudad de los rascacielos?", 
+		"opciones"	: ["New York", "Dubai", "Bogota", "Kansas"], 
+		"correcta"	: 1	
+	},
+	{
+		"pregunta" 	: "¿La capital de la India es?", 
+		"opciones"	: ["Amman", "Yakarta", "Teheran", "Nueva Delhi"], 
+		"correcta"	: 4	
+	},
+	{
+		"pregunta" 	: "¿Cuántas vueltas da el segundero en una vuelta completa en un reloj de doce horas?", 
+		"opciones"	: [720, 800, 360, 300], 
+		"correcta"	: 1	
+	},
+	{
+		"pregunta" 	: " ¿Cuántos lados tiene un hexágono?", 
+		"opciones"	: [8, 6, 5, 3], 
+		"correcta"	: 2	
+	},
+	{
+		"pregunta" 	: "El equinoccio de otoño tiene lugar", 
+		"opciones"	: ["21 de Agosto", "21 de Septiembre", "21 de Julio", "21 de Junio"], 
+		"correcta"	: 2	
+	},
+	{
+		"pregunta" 	: "¿Cuál es la magnitud que relaciona espacio y tiempo?", 
+		"opciones"	: ["Peso", "Temperatura", "Gravedad", "Velocidad"], 
+		"correcta"	: 4	
+	},
+
+	{
+		"pregunta" 	: "", 
+		"opciones"	: ["", "", "", ""], 
+		"correcta"	: 3	
+	}
+
+]
